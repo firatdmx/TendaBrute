@@ -27,3 +27,7 @@ This project is a tool designed to perform a brute-force attack on the Tenda V12
 ```bash
 git clone https://github.com/yourusername/router-brute-force-tool.git
 cd router-brute-force-tool
+```
+
+https://github.com/firatdmx/TendaBrute/assets/65547262/80df38d4-ae6f-422d-be30-7e69ca2e713e
+
